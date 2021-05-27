@@ -1,0 +1,11 @@
+UI:-
+  1. Team DashBoard:
+     url:- /team/<teamName>
+     Team Info:-
+                team name
+                no of matches
+                win/lost
+                list of last matches
+  2. Match Page:
+     url:-/teams/<teamName>/<matches>?year=2019
+                  
